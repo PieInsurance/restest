@@ -91,5 +91,7 @@ func main() {
 		ReadTimeout:  15 * time.Second,
 	}
 
+	fmt.Print("started service\n")
+
 	log.Fatal(srv.ListenAndServe())
 }
