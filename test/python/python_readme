@@ -1,0 +1,6 @@
+Restest Python Test
+
+After starting the base service, you can run tests either within the IDE or console:
+
+pip install -r requirements.txt
+pytest
