@@ -17,7 +17,7 @@ this will stand up a service on port `8000`.
 ## Assignment
 
 We want to test the functionality of our [temperature](https://en.wikipedia.org/wiki/Temperature) API. We _think_ it
-works well, but need more system level testing. Use [Postman](https://www.postman.com/) to make test cases for this API.
+works well, but need more system level testing.
 
 ## Examples:
 
